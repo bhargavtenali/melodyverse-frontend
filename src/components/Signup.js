@@ -188,12 +188,12 @@ const Signup = () => {
                 className="ml-2 block text-sm text-gray-900"
               >
                 I agree to the{" "}
-                <a
-                  href="#"
+                <button
+                  onClick={() => {}}
                   className="font-medium text-indigo-600 hover:text-indigo-500"
                 >
                   Terms and Conditions
-                </a>
+                </button>
               </label>
             </div>
           </div>
