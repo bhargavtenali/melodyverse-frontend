@@ -24,3 +24,5 @@ This project is a full-stack application built with React.js, Node.js, and Mongo
 
 - Node.js (v14 or later)
 - MongoDB
+
+Live Link: https://transcendent-granita-8eb243.netlify.app/login
